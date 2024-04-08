@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">t</string>
+    <string name="add">Add</string>
+    <string name="delete">delete</string>
+    <string name="edit">edit</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+</resources>
